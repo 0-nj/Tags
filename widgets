@@ -17,8 +17,8 @@
             {
               "id": "f3284185-352b-482d-aa9a-2bb78ae88f2a",
               "title": "Netflix",
-              "hideTitle": false,
-              "imageAspect": "wide",
+              "hideTitle": true,
+              "imageAspect": "square",
               "dataSources": [
                 {
                   "kind": "addonCatalog",
@@ -56,51 +56,10 @@
               "imageURL": "https://i.postimg.cc/3R9D8yrK/netflix.png"
             },
             {
-              "id": "fdd4dac5-3594-412d-a6a0-a69e76de94ed",
-              "title": "Disney+",
-              "hideTitle": false,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.158635",
-                    "type": "movie"
-                  }
-                },
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "series::mdblist.158634",
-                    "type": "series"
-                  }
-                },
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.160024",
-                    "type": "movie"
-                  }
-                },
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "series::mdblist.160029",
-                    "type": "series"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/pTknW9VP/disney.png"
-            },
-            {
               "id": "0a58a311-c72c-42a2-8a08-3e947cf5818d",
               "title": "Apple TV",
-              "hideTitle": false,
-              "imageAspect": "wide",
+              "hideTitle": true,
+              "imageAspect": "square",
               "dataSources": [
                 {
                   "kind": "addonCatalog",
@@ -138,10 +97,92 @@
               "imageURL": "https://i.postimg.cc/j5vJxWqT/apple-tv.png"
             },
             {
+              "id": "11f87f70-38be-451b-97d0-ef0b553058dc",
+              "title": "HBO Max",
+              "hideTitle": true,
+              "imageAspect": "square",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "catalogId": "series::mdblist.158643",
+                    "type": "series"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "catalogId": "movie::mdblist.158644",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "catalogId": "movie::mdblist.160035",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "catalogId": "series::mdblist.160036",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/hbomax.png"
+            },
+            {
+              "id": "fdd4dac5-3594-412d-a6a0-a69e76de94ed",
+              "title": "Disney+",
+              "hideTitle": true,
+              "imageAspect": "square",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "catalogId": "movie::mdblist.158635",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "catalogId": "series::mdblist.158634",
+                    "type": "series"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "catalogId": "movie::mdblist.160024",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "catalogId": "series::mdblist.160029",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/pTknW9VP/disney.png"
+            },
+            {
               "id": "94d1931a-0cee-4adf-a274-e39c9a50bf12",
               "title": "Prime Video",
-              "hideTitle": false,
-              "imageAspect": "wide",
+              "hideTitle": true,
+              "imageAspect": "square",
               "dataSources": [
                 {
                   "kind": "addonCatalog",
@@ -179,16 +220,16 @@
               "imageURL": "https://i.postimg.cc/JzkSVMTy/prime-video.png"
             },
             {
-              "id": "11f87f70-38be-451b-97d0-ef0b553058dc",
-              "title": "HBO Max",
-              "hideTitle": false,
-              "imageAspect": "wide",
+              "id": "b8e2e743-091d-4bbf-9d90-02180b9ee6e4",
+              "title": "Hulu",
+              "hideTitle": true,
+              "imageAspect": "square",
               "dataSources": [
                 {
                   "kind": "addonCatalog",
                   "payload": {
                     "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "series::mdblist.158643",
+                    "catalogId": "series::mdblist.158639",
                     "type": "series"
                   }
                 },
@@ -196,34 +237,18 @@
                   "kind": "addonCatalog",
                   "payload": {
                     "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.158644",
+                    "catalogId": "movie::mdblist.158640",
                     "type": "movie"
-                  }
-                },
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.160035",
-                    "type": "movie"
-                  }
-                },
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "series::mdblist.160036",
-                    "type": "series"
                   }
                 }
               ],
-              "imageURL": "https://i.postimg.cc/3R9D8yr8/hbo-max.png"
+              "imageURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/hulu.png"
             },
             {
               "id": "67d3a520-537e-4529-a17d-4029751f04fa",
               "title": "Paramount+",
-              "hideTitle": false,
-              "imageAspect": "wide",
+              "hideTitle": true,
+              "imageAspect": "square",
               "dataSources": [
                 {
                   "kind": "addonCatalog",
@@ -261,35 +286,10 @@
               "imageURL": "https://i.postimg.cc/gJ46zwcm/paramount.png"
             },
             {
-              "id": "b8e2e743-091d-4bbf-9d90-02180b9ee6e4",
-              "title": "Hulu",
-              "hideTitle": false,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "series::mdblist.158639",
-                    "type": "series"
-                  }
-                },
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.158640",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/bNM4BsR1/hulu.png"
-            },
-            {
               "id": "2e870005-0c6c-474e-9204-78f2c4e0d61b",
               "title": "Peacock",
-              "hideTitle": false,
-              "imageAspect": "wide",
+              "hideTitle": true,
+              "imageAspect": "square",
               "dataSources": [
                 {
                   "kind": "addonCatalog",
@@ -313,8 +313,8 @@
             {
               "id": "303a877b-b2bf-4999-a795-1d483940b6f3",
               "title": "STARZ",
-              "hideTitle": false,
-              "imageAspect": "wide",
+              "hideTitle": true,
+              "imageAspect": "square",
               "dataSources": [
                 {
                   "kind": "addonCatalog",
@@ -334,56 +334,6 @@
                 }
               ],
               "imageURL": "https://i.postimg.cc/4NZrCrDB/starz.png"
-            },
-            {
-              "id": "8a6041b5-774d-416b-84e3-495a95220767",
-              "title": "The Criterion Channel",
-              "hideTitle": false,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.158668",
-                    "type": "movie"
-                  }
-                },
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "series::mdblist.158667",
-                    "type": "series"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/KvTrvTfN/criterion-channel.png"
-            },
-            {
-              "id": "fb59a882-a759-4349-963f-d83355bba3a6",
-              "title": "Crunchyroll",
-              "hideTitle": false,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "series::mdblist.158641",
-                    "type": "series"
-                  }
-                },
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.158642",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/Prc0RPMp/crunchyroll.png"
             }
           ]
         }
@@ -401,7 +351,7 @@
             {
               "id": "7d7b2224-e2b8-430a-8d02-3fa87db1d004",
               "title": "Action",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -426,7 +376,7 @@
             {
               "id": "f1f334ea-22f8-4939-a068-54f831954611",
               "title": "Animation",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -451,7 +401,7 @@
             {
               "id": "1d91cafb-d1be-4336-902e-0779ea28390b",
               "title": "Comedy",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -476,7 +426,7 @@
             {
               "id": "2d39efee-4bc2-46f5-b150-cea1e1221e36",
               "title": "Sci-Fi",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -501,7 +451,7 @@
             {
               "id": "23aed96c-dbe3-41bf-93a2-d76b64b5cde4",
               "title": "Thriller",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -526,7 +476,7 @@
             {
               "id": "8d93bc35-36a4-435e-85fd-d73467c735be",
               "title": "Romance",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -551,7 +501,7 @@
             {
               "id": "1fcd94ba-7fbc-4836-9907-c308e44578be",
               "title": "Drama",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -576,7 +526,7 @@
             {
               "id": "eeac4d85-7825-41db-b591-ffc2c836ed7b",
               "title": "Horror",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -601,7 +551,7 @@
             {
               "id": "44f3d775-f512-4bfc-a87e-c73ee36fd0ad",
               "title": "Documentary",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -626,7 +576,7 @@
             {
               "id": "186a8d8f-dd4c-472f-b285-a8564dbc2e1b",
               "title": "War",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -651,7 +601,7 @@
             {
               "id": "33f8d5ad-279d-44af-b77e-c45ca70df163",
               "title": "Anime",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -689,7 +639,7 @@
             {
               "id": "015d2ad2-ba43-47ef-a500-36379b158f1f",
               "title": "20s Movies",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -706,7 +656,7 @@
             {
               "id": "c49ce29e-b8e5-4902-b2ab-3f8167fde113",
               "title": "10s Movies",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -723,7 +673,7 @@
             {
               "id": "19a0dfd6-7988-4bc4-991b-d8c22637c612",
               "title": "00s Movies",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -740,7 +690,7 @@
             {
               "id": "0f4ad53e-16c7-43a6-913b-2a7696437b25",
               "title": "90s Movies",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -757,7 +707,7 @@
             {
               "id": "25252ecc-556a-42dd-9861-e9f230f75453",
               "title": "80s Movies",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -774,7 +724,7 @@
             {
               "id": "d78eb894-b536-4e6f-8272-20380dd36a21",
               "title": "70s Movies",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -804,7 +754,7 @@
             {
               "id": "367c63fa-2f46-4206-b616-91b187941a3a",
               "title": "Christopher Nolan",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -821,7 +771,7 @@
             {
               "id": "9886868b-1081-46af-8d5c-c596c537625f",
               "title": "Denis Villeneuve",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -838,7 +788,7 @@
             {
               "id": "aa637853-8dd0-402e-8c20-d5f5fe0d052d",
               "title": "Steven Spielberg",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -855,7 +805,7 @@
             {
               "id": "dc5d5746-e446-483b-aeb0-6e271c220ee3",
               "title": "David Fincher",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -872,7 +822,7 @@
             {
               "id": "0300701f-d716-4aff-a1bb-e130830ed8ab",
               "title": "Quentin Tarantino",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -889,7 +839,7 @@
             {
               "id": "7c57446b-c8a5-4b0e-bb08-c721739d4760",
               "title": "Ridley Scott",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -906,7 +856,7 @@
             {
               "id": "f0ab04b3-1829-486d-a61d-a1772d669ebf",
               "title": "Martin Scorsese",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -923,7 +873,7 @@
             {
               "id": "d09b29bc-1a5d-491b-97e4-60e0293c3bda",
               "title": "James Cameron",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -940,7 +890,7 @@
             {
               "id": "00200dd7-90a0-4040-94a1-fb449732c907",
               "title": "Paul Thomas Anderson",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -957,7 +907,7 @@
             {
               "id": "9efad6bc-27c9-4f79-a922-0dfb9b6e8194",
               "title": "Wes Anderson",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -974,7 +924,7 @@
             {
               "id": "83986942-c8d0-437c-b634-e3b9264130a7",
               "title": "David Lynch",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -991,7 +941,7 @@
             {
               "id": "b0c642d5-21a8-48cb-95ec-336ad81c0f61",
               "title": "Stanley Kubrick",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -1021,7 +971,7 @@
             {
               "id": "c7e61b76-dd9f-4554-968c-2e2fa3053262",
               "title": "Tom Cruise",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -1038,7 +988,7 @@
             {
               "id": "d9ac1135-84a3-44d6-83f1-5661ad36d3ab",
               "title": "Timothée Chalamet",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -1063,7 +1013,7 @@
             {
               "id": "bc98badb-cff5-4843-8fd5-da6edadded57",
               "title": "Leonardo DiCaprio",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -1080,7 +1030,7 @@
             {
               "id": "3228614d-2515-48d3-b0fd-dc4a5ce8a3ff",
               "title": "Brad Pitt",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -1097,7 +1047,7 @@
             {
               "id": "b03830bf-ef03-4a38-9bc0-834ba75fe47e",
               "title": "Daniel Craig",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -1122,7 +1072,7 @@
             {
               "id": "23155ee5-ca7e-4ecd-b095-c60323f1ee30",
               "title": "Christian Bale",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -1139,7 +1089,7 @@
             {
               "id": "41d5216c-73d3-4e2f-b787-b8ebee1d418a",
               "title": "Denzel Washington",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -1164,7 +1114,7 @@
             {
               "id": "b1b73e2e-07b1-4fdc-bba4-b10afb53975a",
               "title": "Matt Damon",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -1181,7 +1131,7 @@
             {
               "id": "a94e599e-2f04-4d75-8800-e12df5ce042d",
               "title": "Matthew McConaughey",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -1206,7 +1156,7 @@
             {
               "id": "75e9361a-43be-4398-9f4d-933d12f32e30",
               "title": "Nicolas Cage",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -1231,7 +1181,7 @@
             {
               "id": "bcfbf027-3c47-44da-859b-e8605a74e201",
               "title": "Jake Gyllenhaal",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "poster",
               "dataSources": [
                 {
@@ -1261,7 +1211,7 @@
             {
               "id": "67b941d5-af9f-4a81-a450-6e986fe70d46",
               "title": "Warner Bros. Pictures",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1278,7 +1228,7 @@
             {
               "id": "64df0354-9c75-4bd6-9321-b9bb560b7d80",
               "title": "Universal Pictures",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1295,7 +1245,7 @@
             {
               "id": "dfe86eb5-e5aa-4073-90a5-02920bcf5df8",
               "title": "Paramount Pictures",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1312,7 +1262,7 @@
             {
               "id": "aa548413-489c-440e-8a70-843ec485d25a",
               "title": "A24",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1329,7 +1279,7 @@
             {
               "id": "a2f91947-5419-436c-bce1-147e04353490",
               "title": "Metro-Goldwyn-Mayer",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1346,7 +1296,7 @@
             {
               "id": "7e67dcd8-a7da-47e3-bbc7-94d586cd2d36",
               "title": "20th Century Studios",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1363,7 +1313,7 @@
             {
               "id": "cc54058b-db0c-4971-90ea-b9a07074cf4f",
               "title": "Columbia Pictures",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1380,7 +1330,7 @@
             {
               "id": "991b0409-a239-4253-8c06-a248bdd7f9dc",
               "title": "Walt Disney Animation Studio",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1397,7 +1347,7 @@
             {
               "id": "6e2e37e1-4004-4aec-b045-a711dfc86084",
               "title": "DreamWorks Animation",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1414,7 +1364,7 @@
             {
               "id": "f224c53a-f7e5-40b4-a499-69cd812ad7b6",
               "title": "Pixar Animation Studios",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1431,7 +1381,7 @@
             {
               "id": "406a6a91-e7aa-4670-9ef7-7eb95e15848a",
               "title": "Illumination",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1448,7 +1398,7 @@
             {
               "id": "c3b25102-bbef-4354-b932-1453f97410e5",
               "title": "Marvel Studios",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1463,26 +1413,9 @@
               "imageURL": "https://i.postimg.cc/CLwLzTHR/marvel.png"
             },
             {
-              "id": "1d8c1874-32b7-4364-9594-8f92a9aac010",
-              "title": "Lucasfilm",
-              "hideTitle": false,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159677",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/J7Nzr4J3/lucasfilm.png"
-            },
-            {
               "id": "18be5f56-7f57-4de2-b7c6-c8823ff4c39e",
               "title": "New Line Cinema",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1499,7 +1432,7 @@
             {
               "id": "73e4c921-90ad-4fef-a0db-5ace4a033aab",
               "title": "Miramax",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1516,7 +1449,7 @@
             {
               "id": "7ea290d2-1339-4a5d-87e4-6268ffbea971",
               "title": "Searchlight Pictures",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1531,43 +1464,9 @@
               "imageURL": "https://i.postimg.cc/xT9TcDyv/searchlight.png"
             },
             {
-              "id": "68d3fe21-e76a-4a77-98da-e00f0bafd399",
-              "title": "Touchstone Pictures",
-              "hideTitle": false,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159698",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/PrdrPszb/touchstone.png"
-            },
-            {
-              "id": "7f117fe1-ce96-41ad-a0ed-a60931f5fd01",
-              "title": "TriStar Pictures",
-              "hideTitle": false,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159697",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/9FcFr5tb/tristar.png"
-            },
-            {
               "id": "d7a4bcf1-607e-4854-8c30-c30318943157",
               "title": "Lionsgate",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1580,23 +1479,6 @@
                 }
               ],
               "imageURL": "https://i.postimg.cc/c1RLx4Yf/lionsgate.png"
-            },
-            {
-              "id": "62c8dfbd-93e8-4a42-82df-f4376842015e",
-              "title": "Studio Ghibli",
-              "hideTitle": false,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159694",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/tR34qCP1/Bild.png"
             }
           ]
         }
@@ -1614,7 +1496,7 @@
             {
               "id": "23fe1d4f-04f0-40ec-874e-40e45d47d5ef",
               "title": "Academy Awards",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1631,7 +1513,7 @@
             {
               "id": "dca844ba-44cf-46cb-9eb4-d16956d70319",
               "title": "Academy Awards: Best Picture",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1648,7 +1530,7 @@
             {
               "id": "c7204020-8628-4083-9665-225794a44929",
               "title": "Primetime Emmy Awards",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1665,7 +1547,7 @@
             {
               "id": "1b8c016f-4e11-4b26-a0c6-cd1af260a714",
               "title": "Golden Globe Awards",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1682,7 +1564,7 @@
             {
               "id": "72fdf148-1581-4017-b82f-3af2c47a47b8",
               "title": "BAFTA Film Awards",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1699,7 +1581,7 @@
             {
               "id": "2091f923-a951-411a-9670-1e3c0fb4d736",
               "title": "Cannes Film Festival Awards",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1716,7 +1598,7 @@
             {
               "id": "057e0c1b-0203-4da5-bbe3-4bd50bb569eb",
               "title": "Venice Film Festival Awards",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1733,7 +1615,7 @@
             {
               "id": "ce9fc32b-8e77-4aae-a692-42dbdbaa0444",
               "title": "Berlin International Film Festival Awards",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1763,7 +1645,7 @@
             {
               "id": "908be411-528e-43b6-977b-99aa51196c71",
               "title": "IMDb Top Movies",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1780,7 +1662,7 @@
             {
               "id": "6354c7ae-1a15-4917-9893-a9f29ed84165",
               "title": "IMDb Top Shows",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1797,7 +1679,7 @@
             {
               "id": "a6a638e7-e7c4-4905-8a94-ab0cddaa1f1c",
               "title": "Marvel Cinematic Universe",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1822,7 +1704,7 @@
             {
               "id": "76048065-889c-4415-a417-b54f0b319f30",
               "title": "Star Wars Universe",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1839,7 +1721,7 @@
             {
               "id": "70b7d957-3855-454e-b66c-3416de253ea4",
               "title": "Harry Potter",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1856,7 +1738,7 @@
             {
               "id": "06c7444f-e5e2-4f43-b621-40f903305a03",
               "title": "James Bond",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1873,7 +1755,7 @@
             {
               "id": "f8fd1b98-a82e-4e3a-87d4-65ef2eec79a6",
               "title": "Mission: Impossible",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1890,7 +1772,7 @@
             {
               "id": "1a095894-c871-4832-a9d1-56b948bb7478",
               "title": "The Lord of the Rings",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1907,7 +1789,7 @@
             {
               "id": "1b41e41d-e091-4609-b85f-769a716ddeb1",
               "title": "Pirates of the Caribbean",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1924,7 +1806,7 @@
             {
               "id": "42651e4e-411f-470e-aad5-6a4e6109e565",
               "title": "Alien",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1941,7 +1823,7 @@
             {
               "id": "0b6f3f66-3953-4c51-8441-f25139d96de4",
               "title": "Rocky",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1958,7 +1840,7 @@
             {
               "id": "6b8c8aa4-19ee-4a4e-8705-6a562c585b5f",
               "title": "The Hunger Games",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1975,7 +1857,7 @@
             {
               "id": "2da7be2a-9499-476f-8fc3-f85223d173da",
               "title": "John Wick",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -1992,7 +1874,7 @@
             {
               "id": "b72bab6e-1c03-4ea0-9127-02d2cf91aa66",
               "title": "The Hangover",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -2022,7 +1904,7 @@
             {
               "id": "20fe35c6-2d8d-4395-a647-03ae4c9686b0",
               "title": "Letterboxd's Top 500",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -2039,7 +1921,7 @@
             {
               "id": "b51c62ce-b7b7-46e7-aa1a-ab2c3fa346c8",
               "title": "Metacritic's Must See",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -2056,7 +1938,7 @@
             {
               "id": "2d94f738-f791-4ba5-a047-dbbe42ca8b57",
               "title": "Certified Fresh Releases",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -2073,7 +1955,7 @@
             {
               "id": "0e2eb1b9-134b-4a13-a134-e6e348d1799b",
               "title": "1001 Movies You Must See",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -2090,7 +1972,7 @@
             {
               "id": "a836480a-d68c-48ce-b848-e72e796c4fd5",
               "title": "Movies Everyone Should Watch",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -2107,7 +1989,7 @@
             {
               "id": "f7e8f521-e37d-4442-a2a2-de72138b2605",
               "title": "Top 100 of the 21st Century",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -2124,7 +2006,7 @@
             {
               "id": "f1105ecd-1abd-4a89-9b6a-7df35cbd7e38",
               "title": "Mindgame Movies",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -2141,7 +2023,7 @@
             {
               "id": "7ca79910-c37c-4f29-a0d7-89b764833928",
               "title": "The Billion-Dollar Club",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -2158,7 +2040,7 @@
             {
               "id": "67783334-f493-417a-a803-b16f6532f2cd",
               "title": "Echoes of Reality",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -2175,7 +2057,7 @@
             {
               "id": "96cf459f-2c6e-4552-b83a-7eac17b5d317",
               "title": "Pure WTF",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -2192,7 +2074,7 @@
             {
               "id": "6ef9b7a5-eb24-4046-8103-28fc67438ec2",
               "title": "Movies That Leave You Changed",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -2209,7 +2091,7 @@
             {
               "id": "cbb8ddd4-5491-463c-bae3-a37def8782fe",
               "title": "When You Need to Feel Something",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -2226,7 +2108,7 @@
             {
               "id": "72242d6b-c3e7-492a-9b6f-9590e6e54b7f",
               "title": "Tales of the Heart",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -2243,7 +2125,7 @@
             {
               "id": "fa233e91-d58f-4130-83f3-c68bb7aab4ef",
               "title": "Letterboxd's Top 250 Horror",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
@@ -2260,7 +2142,7 @@
             {
               "id": "2b4c5e3f-9a49-4777-9768-ee88d2ebf1ad",
               "title": "The World of Attenborough",
-              "hideTitle": false,
+              "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
