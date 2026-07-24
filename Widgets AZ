@@ -2,7 +2,7 @@
   "exportType": "fusionWidgets",
   "exportVersion": 1,
   "requiredAddons": [
-    "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json"
+    "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json"
   ],
   "widgets": [
     {
@@ -23,7 +23,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158623",
                     "type": "series"
                   }
@@ -31,7 +31,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158622",
                     "type": "movie"
                   }
@@ -39,7 +39,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160016",
                     "type": "movie"
                   }
@@ -47,7 +47,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.160018",
                     "type": "series"
                   }
@@ -64,7 +64,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158629",
                     "type": "series"
                   }
@@ -72,7 +72,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158630",
                     "type": "movie"
                   }
@@ -80,7 +80,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160030",
                     "type": "movie"
                   }
@@ -88,7 +88,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.160031",
                     "type": "series"
                   }
@@ -105,7 +105,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158643",
                     "type": "series"
                   }
@@ -113,7 +113,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158644",
                     "type": "movie"
                   }
@@ -121,7 +121,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160035",
                     "type": "movie"
                   }
@@ -129,7 +129,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.160036",
                     "type": "series"
                   }
@@ -146,7 +146,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158635",
                     "type": "movie"
                   }
@@ -154,7 +154,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158634",
                     "type": "series"
                   }
@@ -162,7 +162,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160024",
                     "type": "movie"
                   }
@@ -170,7 +170,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.160029",
                     "type": "series"
                   }
@@ -187,7 +187,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158637",
                     "type": "movie"
                   }
@@ -195,7 +195,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158636",
                     "type": "series"
                   }
@@ -203,7 +203,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160032",
                     "type": "movie"
                   }
@@ -211,13 +211,38 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.160034",
                     "type": "series"
                   }
                 }
               ],
               "imageURL": "https://i.postimg.cc/JzkSVMTy/prime-video.png"
+            },
+            {
+              "id": "6e728133-8e45-4641-bae1-cced7a2796d6",
+              "title": "Shahid",
+              "hideTitle": true,
+              "imageAspect": "square",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::custom.pw_ers_netflix_catalog.movie.sha",
+                    "type": "movie"
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "series::custom.pw_ers_netflix_catalog.series.sha",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://github.com/0-nj/Fusion-preview/blob/main/Shaid-logo.jpg?raw=true"
             },
             {
               "id": "b8e2e743-091d-4bbf-9d90-02180b9ee6e4",
@@ -228,7 +253,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158639",
                     "type": "series"
                   }
@@ -236,7 +261,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158640",
                     "type": "movie"
                   }
@@ -253,7 +278,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158646",
                     "type": "movie"
                   }
@@ -261,7 +286,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158645",
                     "type": "series"
                   }
@@ -269,7 +294,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160038",
                     "type": "movie"
                   }
@@ -277,7 +302,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.160039",
                     "type": "series"
                   }
@@ -294,7 +319,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158647",
                     "type": "series"
                   }
@@ -302,7 +327,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158648",
                     "type": "movie"
                   }
@@ -319,7 +344,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158650",
                     "type": "movie"
                   }
@@ -327,7 +352,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158649",
                     "type": "series"
                   }
@@ -336,6 +361,121 @@
               "imageURL": "https://i.postimg.cc/4NZrCrDB/starz.png"
             }
           ]
+        }
+      }
+    },
+    {
+      "id": "catalog.78cae38f-ba4c-4b37-9225-cde1fef91dbb",
+      "title": "Letterboxd Watchlist",
+      "type": "row.classic",
+      "cacheTTL": 1800,
+      "limit": 20,
+      "presentation": {
+        "aspectRatio": "poster",
+        "badges": {
+          "providers": false,
+          "ratings": true
+        },
+        "cardStyle": "medium"
+      },
+      "dataSource": {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+          "catalogId": "movie::letterboxd.e2SYZ",
+          "type": "movie"
+        }
+      }
+    },
+    {
+      "id": "catalog.908055b7-35b8-48eb-90b1-405bc0b59daf",
+      "title": "Latest Movies",
+      "type": "row.classic",
+      "cacheTTL": 1800,
+      "limit": 20,
+      "presentation": {
+        "aspectRatio": "poster",
+        "badges": {
+          "providers": false,
+          "ratings": true
+        },
+        "cardStyle": "medium"
+      },
+      "dataSource": {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+          "catalogId": "movie::mdblist.158684",
+          "type": "movie"
+        }
+      }
+    },
+    {
+      "id": "catalog.3ca2f1d9-8edd-45ea-b67c-ebf4a4eea702",
+      "title": "Trending Movies",
+      "type": "row.classic",
+      "cacheTTL": 1800,
+      "limit": 20,
+      "presentation": {
+        "aspectRatio": "poster",
+        "badges": {
+          "providers": false,
+          "ratings": true
+        },
+        "cardStyle": "medium"
+      },
+      "dataSource": {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+          "catalogId": "movie::mdblist.158678",
+          "type": "movie"
+        }
+      }
+    },
+    {
+      "id": "catalog.98d7c603-f94b-4573-86ec-9eb71369fdc2",
+      "title": "Latest Shows",
+      "type": "row.classic",
+      "cacheTTL": 1800,
+      "limit": 20,
+      "presentation": {
+        "aspectRatio": "poster",
+        "badges": {
+          "providers": false,
+          "ratings": true
+        },
+        "cardStyle": "medium"
+      },
+      "dataSource": {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+          "catalogId": "series::mdblist.158790",
+          "type": "series"
+        }
+      }
+    },
+    {
+      "id": "catalog.3855c086-345b-4d69-84a2-f20904ae6650",
+      "title": "Trending Shows",
+      "type": "row.classic",
+      "cacheTTL": 1800,
+      "limit": 20,
+      "presentation": {
+        "aspectRatio": "poster",
+        "badges": {
+          "providers": false,
+          "ratings": true
+        },
+        "cardStyle": "medium"
+      },
+      "dataSource": {
+        "kind": "addonCatalog",
+        "payload": {
+          "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+          "catalogId": "series::mdblist.158679",
+          "type": "series"
         }
       }
     },
@@ -357,7 +497,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158800",
                     "type": "movie"
                   }
@@ -365,7 +505,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158825",
                     "type": "series"
                   }
@@ -382,7 +522,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158811",
                     "type": "movie"
                   }
@@ -390,7 +530,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158834",
                     "type": "series"
                   }
@@ -407,7 +547,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158801",
                     "type": "movie"
                   }
@@ -415,7 +555,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158826",
                     "type": "series"
                   }
@@ -432,7 +572,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158803",
                     "type": "movie"
                   }
@@ -440,7 +580,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158827",
                     "type": "series"
                   }
@@ -457,7 +597,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158805",
                     "type": "movie"
                   }
@@ -465,7 +605,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158829",
                     "type": "series"
                   }
@@ -482,7 +622,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158806",
                     "type": "movie"
                   }
@@ -490,7 +630,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158824",
                     "type": "series"
                   }
@@ -507,7 +647,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158807",
                     "type": "movie"
                   }
@@ -515,7 +655,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158830",
                     "type": "series"
                   }
@@ -532,7 +672,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158812",
                     "type": "movie"
                   }
@@ -540,7 +680,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158835",
                     "type": "series"
                   }
@@ -557,7 +697,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158813",
                     "type": "movie"
                   }
@@ -565,7 +705,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158836",
                     "type": "series"
                   }
@@ -582,7 +722,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158815",
                     "type": "movie"
                   }
@@ -590,7 +730,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158838",
                     "type": "series"
                   }
@@ -607,7 +747,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158840",
                     "type": "series"
                   }
@@ -615,128 +755,13 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158817",
                     "type": "movie"
                   }
                 }
               ],
               "imageURL": "https://github.com/0-nj/Fusion-Cover-Images-/blob/main/anime%20(1).png?raw=true"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "collection.b728ff96-6de2-458e-83d5-2b6477f89e93",
-      "title": "Decades",
-      "hideTitle": false,
-      "type": "collection.row",
-      "dataSource": {
-        "kind": "collection",
-        "payload": {
-          "items": [
-            {
-              "id": "015d2ad2-ba43-47ef-a500-36379b158f1f",
-              "title": "20s Movies",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.158796",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/decades/wide/mousa.a/2020s-wide.png"
-            },
-            {
-              "id": "c49ce29e-b8e5-4902-b2ab-3f8167fde113",
-              "title": "10s Movies",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.158791",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/decades/wide/mousa.a/2010s-wide.png"
-            },
-            {
-              "id": "19a0dfd6-7988-4bc4-991b-d8c22637c612",
-              "title": "00s Movies",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.158792",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/decades/wide/mousa.a/2000s-wide.png"
-            },
-            {
-              "id": "0f4ad53e-16c7-43a6-913b-2a7696437b25",
-              "title": "90s Movies",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.158793",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/decades/wide/mousa.a/1990s-wide.png"
-            },
-            {
-              "id": "25252ecc-556a-42dd-9861-e9f230f75453",
-              "title": "80s Movies",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.158794",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/decades/wide/mousa.a/1980s-wide.png"
-            },
-            {
-              "id": "d78eb894-b536-4e6f-8272-20380dd36a21",
-              "title": "70s Movies",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.158795",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/decades/wide/mousa.a/1970s-wide.png"
             }
           ]
         }
@@ -760,7 +785,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159441",
                     "type": "movie"
                   }
@@ -777,7 +802,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159458",
                     "type": "movie"
                   }
@@ -794,7 +819,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159455",
                     "type": "movie"
                   }
@@ -811,7 +836,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159463",
                     "type": "movie"
                   }
@@ -828,7 +853,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159453",
                     "type": "movie"
                   }
@@ -845,7 +870,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159454",
                     "type": "movie"
                   }
@@ -862,7 +887,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159467",
                     "type": "movie"
                   }
@@ -879,7 +904,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159456",
                     "type": "movie"
                   }
@@ -896,7 +921,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159464",
                     "type": "movie"
                   }
@@ -913,7 +938,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159471",
                     "type": "movie"
                   }
@@ -930,7 +955,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159451",
                     "type": "movie"
                   }
@@ -947,7 +972,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159469",
                     "type": "movie"
                   }
@@ -977,7 +1002,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159263",
                     "type": "movie"
                   }
@@ -994,7 +1019,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.158989",
                     "type": "series"
                   }
@@ -1002,7 +1027,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.158987",
                     "type": "movie"
                   }
@@ -1019,7 +1044,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159219",
                     "type": "movie"
                   }
@@ -1036,7 +1061,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159009",
                     "type": "movie"
                   }
@@ -1053,7 +1078,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159019",
                     "type": "movie"
                   }
@@ -1061,7 +1086,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.159274",
                     "type": "series"
                   }
@@ -1078,7 +1103,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159014",
                     "type": "movie"
                   }
@@ -1095,7 +1120,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.159276",
                     "type": "series"
                   }
@@ -1103,7 +1128,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159027",
                     "type": "movie"
                   }
@@ -1120,7 +1145,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159226",
                     "type": "movie"
                   }
@@ -1137,7 +1162,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159228",
                     "type": "movie"
                   }
@@ -1145,7 +1170,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.159230",
                     "type": "series"
                   }
@@ -1162,7 +1187,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159241",
                     "type": "movie"
                   }
@@ -1170,7 +1195,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.159284",
                     "type": "series"
                   }
@@ -1187,7 +1212,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159477",
                     "type": "movie"
                   }
@@ -1200,8 +1225,8 @@
       }
     },
     {
-      "id": "collection.4f723b0f-ef99-4576-adba-1a637bdb0aac",
-      "title": "Studios",
+      "id": "collection.b728ff96-6de2-458e-83d5-2b6477f89e93",
+      "title": "Decades",
       "hideTitle": false,
       "type": "collection.row",
       "dataSource": {
@@ -1209,425 +1234,106 @@
         "payload": {
           "items": [
             {
-              "id": "67b941d5-af9f-4a81-a450-6e986fe70d46",
-              "title": "Warner Bros. Pictures",
+              "id": "015d2ad2-ba43-47ef-a500-36379b158f1f",
+              "title": "20s Movies",
               "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159685",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.158796",
                     "type": "movie"
                   }
                 }
               ],
-              "imageURL": "https://i.postimg.cc/65B5yJLY/warner-bros.png"
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/decades/wide/mousa.a/2020s-wide.png"
             },
             {
-              "id": "64df0354-9c75-4bd6-9321-b9bb560b7d80",
-              "title": "Universal Pictures",
+              "id": "c49ce29e-b8e5-4902-b2ab-3f8167fde113",
+              "title": "10s Movies",
               "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159686",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.158791",
                     "type": "movie"
                   }
                 }
               ],
-              "imageURL": "https://i.postimg.cc/TYTYpMq9/universal.png"
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/decades/wide/mousa.a/2010s-wide.png"
             },
             {
-              "id": "dfe86eb5-e5aa-4073-90a5-02920bcf5df8",
-              "title": "Paramount Pictures",
+              "id": "19a0dfd6-7988-4bc4-991b-d8c22637c612",
+              "title": "00s Movies",
               "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159687",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.158792",
                     "type": "movie"
                   }
                 }
               ],
-              "imageURL": "https://i.postimg.cc/VLzLdQBX/paramount.png"
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/decades/wide/mousa.a/2000s-wide.png"
             },
             {
-              "id": "aa548413-489c-440e-8a70-843ec485d25a",
-              "title": "A24",
+              "id": "0f4ad53e-16c7-43a6-913b-2a7696437b25",
+              "title": "90s Movies",
               "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159693",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.158793",
                     "type": "movie"
                   }
                 }
               ],
-              "imageURL": "https://i.postimg.cc/WpG1Nbr1/a24.png"
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/decades/wide/mousa.a/1990s-wide.png"
             },
             {
-              "id": "a2f91947-5419-436c-bce1-147e04353490",
-              "title": "Metro-Goldwyn-Mayer",
+              "id": "25252ecc-556a-42dd-9861-e9f230f75453",
+              "title": "80s Movies",
               "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159684",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.158794",
                     "type": "movie"
                   }
                 }
               ],
-              "imageURL": "https://i.postimg.cc/0yNF111W/mgm.png"
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/decades/wide/mousa.a/1980s-wide.png"
             },
             {
-              "id": "7e67dcd8-a7da-47e3-bbc7-94d586cd2d36",
-              "title": "20th Century Studios",
+              "id": "d78eb894-b536-4e6f-8272-20380dd36a21",
+              "title": "70s Movies",
               "hideTitle": true,
               "imageAspect": "wide",
               "dataSources": [
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159689",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.158795",
                     "type": "movie"
                   }
                 }
               ],
-              "imageURL": "https://i.postimg.cc/QNQd8x5t/20th-century.png"
-            },
-            {
-              "id": "cc54058b-db0c-4971-90ea-b9a07074cf4f",
-              "title": "Columbia Pictures",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159688",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/dQ2Vstd3/columbia.png"
-            },
-            {
-              "id": "991b0409-a239-4253-8c06-a248bdd7f9dc",
-              "title": "Walt Disney Animation Studio",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159700",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/tR34qCP6/disney.png"
-            },
-            {
-              "id": "6e2e37e1-4004-4aec-b045-a711dfc86084",
-              "title": "DreamWorks Animation",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159680",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/WpG1Nbrg/dreamworks.png"
-            },
-            {
-              "id": "f224c53a-f7e5-40b4-a499-69cd812ad7b6",
-              "title": "Pixar Animation Studios",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159678",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/SNmNJF7W/pixar.png"
-            },
-            {
-              "id": "406a6a91-e7aa-4670-9ef7-7eb95e15848a",
-              "title": "Illumination",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159699",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/bYxwyNbb/illumination.png"
-            },
-            {
-              "id": "c3b25102-bbef-4354-b932-1453f97410e5",
-              "title": "Marvel Studios",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159690",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/CLwLzTHR/marvel.png"
-            },
-            {
-              "id": "18be5f56-7f57-4de2-b7c6-c8823ff4c39e",
-              "title": "New Line Cinema",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159691",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/0292bRdw/new-line-cinema.png"
-            },
-            {
-              "id": "73e4c921-90ad-4fef-a0db-5ace4a033aab",
-              "title": "Miramax",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159695",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/ZKJKCtFB/miramax.png"
-            },
-            {
-              "id": "7ea290d2-1339-4a5d-87e4-6268ffbea971",
-              "title": "Searchlight Pictures",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159696",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/xT9TcDyv/searchlight.png"
-            },
-            {
-              "id": "d7a4bcf1-607e-4854-8c30-c30318943157",
-              "title": "Lionsgate",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159692",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/c1RLx4Yf/lionsgate.png"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "collection.a80ead45-71ee-4976-8301-2d49e30ac71b",
-      "title": "Awards",
-      "hideTitle": false,
-      "type": "collection.row",
-      "dataSource": {
-        "kind": "collection",
-        "payload": {
-          "items": [
-            {
-              "id": "23fe1d4f-04f0-40ec-874e-40e45d47d5ef",
-              "title": "Academy Awards",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159414",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/fb4dMhv2/academy-awards.png"
-            },
-            {
-              "id": "dca844ba-44cf-46cb-9eb4-d16956d70319",
-              "title": "Academy Awards: Best Picture",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159412",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/YScFtwxV/best-picture.png"
-            },
-            {
-              "id": "c7204020-8628-4083-9665-225794a44929",
-              "title": "Primetime Emmy Awards",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "series::mdblist.159408",
-                    "type": "series"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/jjz75k8Z/emmys.png"
-            },
-            {
-              "id": "1b8c016f-4e11-4b26-a0c6-cd1af260a714",
-              "title": "Golden Globe Awards",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.159385",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/k5xb4hjY/golden-globes.png"
-            },
-            {
-              "id": "72fdf148-1581-4017-b82f-3af2c47a47b8",
-              "title": "BAFTA Film Awards",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.160235",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/131RtRL3/bafta.png"
-            },
-            {
-              "id": "2091f923-a951-411a-9670-1e3c0fb4d736",
-              "title": "Cannes Film Festival Awards",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.160006",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/cJq3dNc2/cannes.png"
-            },
-            {
-              "id": "057e0c1b-0203-4da5-bbe3-4bd50bb569eb",
-              "title": "Venice Film Festival Awards",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.160239",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/wBhmvbWb/venice.png"
-            },
-            {
-              "id": "ce9fc32b-8e77-4aae-a692-42dbdbaa0444",
-              "title": "Berlin International Film Festival Awards",
-              "hideTitle": true,
-              "imageAspect": "wide",
-              "dataSources": [
-                {
-                  "kind": "addonCatalog",
-                  "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
-                    "catalogId": "movie::mdblist.160238",
-                    "type": "movie"
-                  }
-                }
-              ],
-              "imageURL": "https://i.postimg.cc/hGFmKq0N/berlinale.png"
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/decades/wide/mousa.a/1970s-wide.png"
             }
           ]
         }
@@ -1651,7 +1357,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160008",
                     "type": "movie"
                   }
@@ -1668,7 +1374,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.160009",
                     "type": "series"
                   }
@@ -1685,7 +1391,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159982",
                     "type": "movie"
                   }
@@ -1693,7 +1399,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.159984",
                     "type": "series"
                   }
@@ -1710,7 +1416,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.143863",
                     "type": "movie"
                   }
@@ -1727,7 +1433,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159905",
                     "type": "movie"
                   }
@@ -1744,7 +1450,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159896",
                     "type": "movie"
                   }
@@ -1761,7 +1467,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "all::trakt.list.131",
                     "type": "series"
                   }
@@ -1778,7 +1484,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159975",
                     "type": "movie"
                   }
@@ -1795,7 +1501,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159955",
                     "type": "movie"
                   }
@@ -1812,7 +1518,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159936",
                     "type": "movie"
                   }
@@ -1829,7 +1535,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159954",
                     "type": "movie"
                   }
@@ -1846,7 +1552,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.159906",
                     "type": "movie"
                   }
@@ -1863,7 +1569,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.143882",
                     "type": "movie"
                   }
@@ -1880,7 +1586,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "all::trakt.list.854",
                     "type": "series"
                   }
@@ -1910,7 +1616,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160274",
                     "type": "movie"
                   }
@@ -1927,7 +1633,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160245",
                     "type": "movie"
                   }
@@ -1944,7 +1650,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160243",
                     "type": "movie"
                   }
@@ -1961,7 +1667,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160257",
                     "type": "movie"
                   }
@@ -1978,7 +1684,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160272",
                     "type": "movie"
                   }
@@ -1995,7 +1701,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160269",
                     "type": "movie"
                   }
@@ -2012,7 +1718,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160054",
                     "type": "movie"
                   }
@@ -2029,7 +1735,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160241",
                     "type": "movie"
                   }
@@ -2046,7 +1752,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160271",
                     "type": "movie"
                   }
@@ -2063,7 +1769,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160266",
                     "type": "movie"
                   }
@@ -2080,7 +1786,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160267",
                     "type": "movie"
                   }
@@ -2097,7 +1803,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160270",
                     "type": "movie"
                   }
@@ -2114,7 +1820,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160273",
                     "type": "movie"
                   }
@@ -2131,7 +1837,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160265",
                     "type": "movie"
                   }
@@ -2148,7 +1854,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "movie::mdblist.160263",
                     "type": "movie"
                   }
@@ -2156,13 +1862,447 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometadatafortheweebs.midnightignite.me/stremio/601b9149-52e4-4d37-9552-a28c2f8c20f8/manifest.json",
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
                     "catalogId": "series::mdblist.160264",
                     "type": "series"
                   }
                 }
               ],
               "imageURL": "https://i.postimg.cc/NMcnvczG/The-World-of-Attenborough.png"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "collection.a80ead45-71ee-4976-8301-2d49e30ac71b",
+      "title": "Awards",
+      "hideTitle": false,
+      "type": "collection.row",
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "id": "23fe1d4f-04f0-40ec-874e-40e45d47d5ef",
+              "title": "Academy Awards",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.159414",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/fb4dMhv2/academy-awards.png"
+            },
+            {
+              "id": "dca844ba-44cf-46cb-9eb4-d16956d70319",
+              "title": "Academy Awards: Best Picture",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.159412",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/YScFtwxV/best-picture.png"
+            },
+            {
+              "id": "c7204020-8628-4083-9665-225794a44929",
+              "title": "Primetime Emmy Awards",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "series::mdblist.159408",
+                    "type": "series"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/jjz75k8Z/emmys.png"
+            },
+            {
+              "id": "1b8c016f-4e11-4b26-a0c6-cd1af260a714",
+              "title": "Golden Globe Awards",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.159385",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/k5xb4hjY/golden-globes.png"
+            },
+            {
+              "id": "72fdf148-1581-4017-b82f-3af2c47a47b8",
+              "title": "BAFTA Film Awards",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.160235",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/131RtRL3/bafta.png"
+            },
+            {
+              "id": "2091f923-a951-411a-9670-1e3c0fb4d736",
+              "title": "Cannes Film Festival Awards",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.160006",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/cJq3dNc2/cannes.png"
+            },
+            {
+              "id": "057e0c1b-0203-4da5-bbe3-4bd50bb569eb",
+              "title": "Venice Film Festival Awards",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.160239",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/wBhmvbWb/venice.png"
+            },
+            {
+              "id": "ce9fc32b-8e77-4aae-a692-42dbdbaa0444",
+              "title": "Berlin International Film Festival Awards",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.160238",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/hGFmKq0N/berlinale.png"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "collection.4f723b0f-ef99-4576-adba-1a637bdb0aac",
+      "title": "Studios",
+      "hideTitle": false,
+      "type": "collection.row",
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "id": "67b941d5-af9f-4a81-a450-6e986fe70d46",
+              "title": "Warner Bros. Pictures",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.159685",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/65B5yJLY/warner-bros.png"
+            },
+            {
+              "id": "64df0354-9c75-4bd6-9321-b9bb560b7d80",
+              "title": "Universal Pictures",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.159686",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/TYTYpMq9/universal.png"
+            },
+            {
+              "id": "dfe86eb5-e5aa-4073-90a5-02920bcf5df8",
+              "title": "Paramount Pictures",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.159687",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/VLzLdQBX/paramount.png"
+            },
+            {
+              "id": "aa548413-489c-440e-8a70-843ec485d25a",
+              "title": "A24",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.159693",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/WpG1Nbr1/a24.png"
+            },
+            {
+              "id": "a2f91947-5419-436c-bce1-147e04353490",
+              "title": "Metro-Goldwyn-Mayer",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.159684",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/0yNF111W/mgm.png"
+            },
+            {
+              "id": "7e67dcd8-a7da-47e3-bbc7-94d586cd2d36",
+              "title": "20th Century Studios",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.159689",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/QNQd8x5t/20th-century.png"
+            },
+            {
+              "id": "cc54058b-db0c-4971-90ea-b9a07074cf4f",
+              "title": "Columbia Pictures",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.159688",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/dQ2Vstd3/columbia.png"
+            },
+            {
+              "id": "991b0409-a239-4253-8c06-a248bdd7f9dc",
+              "title": "Walt Disney Animation Studio",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.159700",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/tR34qCP6/disney.png"
+            },
+            {
+              "id": "6e2e37e1-4004-4aec-b045-a711dfc86084",
+              "title": "DreamWorks Animation",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.159680",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/WpG1Nbrg/dreamworks.png"
+            },
+            {
+              "id": "f224c53a-f7e5-40b4-a499-69cd812ad7b6",
+              "title": "Pixar Animation Studios",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.159678",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/SNmNJF7W/pixar.png"
+            },
+            {
+              "id": "406a6a91-e7aa-4670-9ef7-7eb95e15848a",
+              "title": "Illumination",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.159699",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/bYxwyNbb/illumination.png"
+            },
+            {
+              "id": "c3b25102-bbef-4354-b932-1453f97410e5",
+              "title": "Marvel Studios",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.159690",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/CLwLzTHR/marvel.png"
+            },
+            {
+              "id": "18be5f56-7f57-4de2-b7c6-c8823ff4c39e",
+              "title": "New Line Cinema",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.159691",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/0292bRdw/new-line-cinema.png"
+            },
+            {
+              "id": "73e4c921-90ad-4fef-a0db-5ace4a033aab",
+              "title": "Miramax",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.159695",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/ZKJKCtFB/miramax.png"
+            },
+            {
+              "id": "7ea290d2-1339-4a5d-87e4-6268ffbea971",
+              "title": "Searchlight Pictures",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.159696",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/xT9TcDyv/searchlight.png"
+            },
+            {
+              "id": "d7a4bcf1-607e-4854-8c30-c30318943157",
+              "title": "Lionsgate",
+              "hideTitle": true,
+              "imageAspect": "wide",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "https://aiometadata.1773438.xyz/stremio/b22f870a-a01f-4fd5-855b-e948924123f8/manifest.json",
+                    "catalogId": "movie::mdblist.159692",
+                    "type": "movie"
+                  }
+                }
+              ],
+              "imageURL": "https://i.postimg.cc/c1RLx4Yf/lionsgate.png"
             }
           ]
         }
